@@ -6,10 +6,10 @@ Repository for shared and Template infrastructure
 ### Step 1
 Fork projects associated:
 
-* https://github.com/AlienX456/SoundMonitor-S3EventProducer
-* https://github.com/AlienX456/SoundMonitor-InferencerAdapa
-* https://github.com/AlienX456/SoundMonitor-NoiseLevel
-* https://github.com/AlienX456/SoundMonitor-KafkaElasticLogstash
+* https://github.com/kgordillo-hub/SoundMonitor-S3EventProducer
+* https://github.com/kgordillo-hub/SoundMonitor-InferencerAdapa
+* https://github.com/kgordillo-hub/SoundMonitor-NoiseLevel
+* https://github.com/kgordillo-hub/SoundMonitor-KafkaElasticLogstash
 
 
 ### Step 2
