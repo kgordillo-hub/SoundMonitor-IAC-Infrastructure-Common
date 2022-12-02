@@ -16,8 +16,8 @@ Fork projects associated:
 
 S3 bucket name is globally unique https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingBucket.html, so it's required to change the name of the buckets on :
 
-* https://github.com/AlienX456/SoundMonitor-IAC-Infrastructure-Common/blob/master/init_sound_monitor_iac/backend.tf
-* https://github.com/AlienX456/SoundMonitor-IAC-Infrastructure-Common/blob/master/lambda_s3_kafka/data.tf
+* https://github.com/kgordillo-hub/SoundMonitor-IAC-Infrastructure-Common/blob/master/use-cases/init_sound_monitor_iac/backend.tf
+* https://github.com/kgordillo-hub/SoundMonitor-IAC-Infrastructure-Common/blob/master/use-cases/lambda_s3_kafka/data.tf
 
 Note: Also you must update the backend S3 name on all forked projects.
 
