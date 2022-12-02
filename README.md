@@ -26,7 +26,7 @@ Note: Also you must update the backend S3 name on all forked projects.
 
 create CircleCI contexts:
 
-#### Terraform context:
+#### TerraformContext:
 
 | Varible | Value  |
 |---|---|
